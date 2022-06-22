@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @76048d
 - 👀 I’m interested in learning to program Python
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate with other beginners
 - 📫 How to reach me ...76048d@gmail.com
 
 <!---
